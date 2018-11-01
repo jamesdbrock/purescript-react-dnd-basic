@@ -22,7 +22,7 @@ import Data.Maybe (Maybe)
 import Data.Nullable (Nullable, toMaybe, toNullable)
 import Effect (Effect)
 import Effect.Uncurried (mkEffectFn1)
-import React.Basic (Component, JSX, element, stateless)
+import React.Basic.Compat (Component, JSX, element, stateless)
 
 data Backend
 
