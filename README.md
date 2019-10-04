@@ -6,6 +6,15 @@
 
 Available on [Pursuit](https://pursuit.purescript.org/packages/purescript-react-dnd-basic)
 
+## Building
+
+Requires `npm`.
+
+```sh
+npm install
+$(npm bin)/bower install
+```
+
 ## Example
 
 ```purescript
